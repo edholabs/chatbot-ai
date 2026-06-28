@@ -27,6 +27,14 @@ Jika proyek ini bermanfaat bagi Anda, **jangan lupa berikan bintang (⭐) pada r
 
 Aplikasi ini dibangun menggunakan teknologi web dan Node.js terkini untuk memastikan performa yang super cepat dan stabil:
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Google Gemini" />
+</p>
+
 *   **[Node.js](https://nodejs.org/)** - Runtime environment JavaScript yang andal.
 *   **[Express.js](https://expressjs.com/)** - Framework web backend (API) terbaik untuk Node.js.
 *   **[@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)** - Library tangguh untuk koneksi WhatsApp Web Multi-Device tanpa browser.
