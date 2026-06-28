@@ -49,7 +49,6 @@ Berikut adalah tampilan antarmuka (Dashboard) dari **ZafaLink Gateway** yang mem
 
 ![ZafaLink UI Dashboard](docs/ui-dashboard.png)
 
-*(Catatan: Simpan gambar screenshot UI Anda dengan nama `ui-dashboard.png` di dalam folder `docs/`)*
 
 ---
 
